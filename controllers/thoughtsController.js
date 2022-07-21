@@ -1,0 +1,7 @@
+getAllThoughts,
+getOneThoughtById,
+createThought,
+updateThought,
+deleteThought,
+postReaction,
+deleteReaction,
